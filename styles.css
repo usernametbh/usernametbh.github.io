@@ -1,14 +1,18 @@
 div {
-    background-color: #FF0000;
+    background-color: #6a78a5;
+    padding:10px;
+    border-radius: 10px;
+    text-align:center;
 }
 
 button {
-    border-radius: 30px;
-    height: 30px;
+    border-radius: 10px;
+    height: 40px;
     background-color: #2e4053;
     color: #d6dbdf;
-    width: 140px;
-    
+    width: 100%;
+    font-size:15px;
+    margin:auto;
 }
 
 button:hover {
